@@ -1,0 +1,15 @@
+The next sprite I'm drawing is Dodrio.
+
+I was a bit hesitant at first, because it appears to be a quite complex sprite (for my level, anyway). Partly, I was still a bit miffed by how my Ninetals work ended up, so I went in worried that I will do another shoddy job.
+
+Surprisingly, it went much better than I expected. Perhaps it was because I put more effort in trying to make my sprite look good compared to how I tried to make it a replica of the reference.
+
+Here's some important things to note when I made this:
+
+Sketch. This time, I started with a mix of lineart and sillhouette. It was more of a sketch lineart, though, with fair amount of erasing and moving. I think it's a good workflow for me, without going full lineart or full blob, both of which ended up giving messy shapes.
+
+Perspective by default. When making the sketch, I took the lessons from my previous sprites to heart: have in mind the depth, angle, and perspective of the sprite right from the very start. It's why, I feel, I did a much better job capturing the angles of the necks, faces, and legs.
+
+Be free. Don't try to do a replica of the reference. Instead, draw my interpretation of it. That is why the sprite have a softer outline and more pronounced anti-aliasing in places. I should instead discover my style instead of copying, and I wound up having much more fun.
+
+This ended up taking around 90 minutes. Much faster than my effort on Bulbasaur and Ninetales, likely because I took a freer approach and learnt my lesson. There is overall much fewer erasing and correcting compared to the previous ones.

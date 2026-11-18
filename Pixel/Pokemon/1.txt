@@ -1,0 +1,4 @@
+First drawing attempt starts with Bulbasaur. Two things I noticed:
+
+- Perspective. I noticed the left legs both front and back are drawn touching each other. So it has the semi-angled perspective coded from the start. Another perspective shot is the actual bulb, where the bulb peak slants is angled a bit forward. 
+- Lineart. It appears very simple, but the way the Bulbasaur looks like its preparing to pounce (or maybe shoot some artillery from the bulb) is best communicated from the 3 drawn legs. My drawing is much too straight and perhaps "rectangular". The reference is much plumper, not stiff at all.
