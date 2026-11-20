@@ -1,0 +1,5 @@
+Next after Ledyba is Natu, which is as easy as you'd expected. I mean, it's just a round green ball, so... But I did learn some lessons from it.
+
+Small shapes. The most notable feature to draw is the feet. In the reference, it really does just look like a bunch of pixels huddled together. Yet to my surprise it managed to look like a very coherent drawing of bird legs. My Natu legs are more, perhaps "plain". It's not a stack of many different colored pixels. I did draw it by finding a sort of trick on my own. The front legs form a gradient towards the back leg, and there is a gradient jump in darkness when the back feet starts. Earlier I tried follow the reference and make it a stack of diverse pixels, but it didn't work.
+
+Beak and tail. The beak looks a little too big, like it's almost like a duck. But maybe it's just my feeling. I also couldn't get the tail to look right. The reference is a little weird where the colors between the feathers on the wing and tail are the same, but they don't look like they blend. Mine looks awkward, but I couldn't get it to look right.
