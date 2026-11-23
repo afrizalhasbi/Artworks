@@ -1,0 +1,6 @@
+After Natu comes Sunkern. This was a rather unremarkable draw, and I didn't have much trouble with it. Some time were sunk on getting the leave colors right, but despite being easy I still learnt some things.
+
+
+Shape. Sunkern is actually a cut circle (not sure the English term). The body before the eyes is exactly a circle, so its fairly easy to just draw a circle, set the cut boundaries, and draw the crown and sprout.
+
+Tuning pixels. Unlike the previous draws, I tuned for individual pixels much more, trying to match pixel length and shape exactly as the reference. It might be because the sprite is small, though, and it's much more tractable to tune individual pixels.
