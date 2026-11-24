@@ -1,0 +1,3 @@
+After Corsola is Hitmontop. Surprisingly, this look better than I had expected. The head looks squishy, the hair perhaps is a little too wide, but the shapes are legible. I'm quite happy with it, although issues still exist.
+
+Shape and angle. Notably, the right leg is not as egg-like as I hoped, and it's yet again a reminder for me to take my time in developing the initial, primitive shape. Perhaps I can spend additional time fixing it, but I'll leave it this way for now. Another is the head, which while I said it looks good, it's not as how do i say it, as slanted and as tight as the reference. I had to adjust to make the eyes 2x size so it fits the head better, and i think the round body could've been lower. Perhaps it's a consequence of not using layers.
