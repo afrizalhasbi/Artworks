@@ -1,0 +1,7 @@
+Blaziken. Blaziken is a jump up in difficulty, perhaps because my random draws so far has avoided humanoid pokemons. This is the hardest thing to draw so far.
+
+Pose. I did not succeed in making the pose look imposing. The reference has the legs and arms angled nicely that makes Blaziken looks powerful. I did not succeed in doing this, perhaps because i originally had the legs oversized and needed to resize it to be smaller, but perhaps not's not much of a help. I could perhaps spend more time tuning the standing angle, but drawing this took a lot of time already.
+
+Claws. The claws are quite hard to draw. Getting the relative angle and shape between two fingers are hard to tune, and I end up with the right center claw a tad too big, and for the left center claw too small. Furthermore I did not recognize the proper primitive shape of each claws, and it's a kind of detail I need to spend a lot of time tuning individual pixels to make it look decent.
+
+Mane. The mane or hair is too full, particularly around the chest. This is a consequence of poor proportions, but perhaps also due to an oversized canvas. Next time I should really consider using a smaller canvas, it is evident I am wasting a lot space in this drawing.
